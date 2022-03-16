@@ -12,6 +12,10 @@ Insert your description of the stage here
 | Task 2                       |         |         |         |         |         |
 | Task 3                       |         |         |         |         |         |
 | Task N                       |         |         |         |         |         |
-  
+ 
+ Task for:
+ 
+* Jack
+* Aleksjes
   
 [Home](../index.md)  
