@@ -4,17 +4,19 @@
 
 ## __Pipeline stage:__  Code  
 ### __Stage description:__  
-Insert your description of the stage here  
+Coding – code development and review, source code management tools, code merging.
 
-| Pipeline Stage:<br>Code  | Role 1  | Role 2  | Role 3  | Role 4  | Role N  |
+| Pipeline Stage:<br>Code  | Software Developer  | ScrumMaster | Product Owner | Tester  | Role N  |
 |----------------------------- |-------- |-------- |-------- |-------- |-------- |
-| Task 1                       |         |         |         |         |         |
-| Task 2                       |         |         |         |         |         |
-| Task 3                       |         |         |         |         |         |
-| Task N                       |         |         |         |         |         |
+| Create SCM/VCS for code storage and versioning  |R | A | | | |
+| Create coding standards   | R | A | | | |
+| Ensure branch protection | R | A | | | |
+| Perform code reviews |R |  A | | | |
+| Write Code   | R| A | CI | V | |
+| Write tests (unit/integration)| R| A | | V | |
+| Daily Stand Up   | C | RA | I | C | |
   
-* Task for:
-*  Ronan
-*  Brian
 
 [Home](../index.md)  
+
+
